@@ -68,7 +68,8 @@ function mdCarousel($interval) {
         "font-size": "48px",
         width: "48px",
         height: "48px",
-        color: "white"
+        color: "white",
+        cursor: "pointer"
     };
     this.Overlay = {
         "z-index": 1
